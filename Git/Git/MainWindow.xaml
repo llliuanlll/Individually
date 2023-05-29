@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Я сделал, я молодец!!!   " HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22"/>
+        <Label Content="Я сделал, я молодец!!!   " HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="22" Margin="279,174,0,0"/>
 
     </Grid>
 </Window>
